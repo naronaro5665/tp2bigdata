@@ -1,0 +1,4 @@
+method,time_s,memory_gb,rows,clicks,status
+Standard Pandas,370.66,6.96,40428967,6865066,OK
+Pandas Chunking,344.85,0.16,40428967,6865066,OK
+Dask,245.71,0.38,40428967,6865066,OK
